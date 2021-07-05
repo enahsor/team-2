@@ -1,6 +1,6 @@
 
-test('THIS SHOULD FAIL', () => {
+test('THIS SHOULD PASS', () => {
 
-    expect(true).toBeFalsy()
+    expect(true).toBeTruthy()
 
 })
